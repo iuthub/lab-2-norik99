@@ -1,0 +1,26 @@
+html{
+	background-color: #d1fdfe;
+}
+h1, h3{
+	color:#cc2900;
+}
+h3{
+	font-size: 25px;
+}
+p, li, span{
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	font-weight: lighter;
+	font-style: italic;
+	color: #666699;
+}
+img{
+	height: auto;
+	width: 200px;
+}
+a{
+	text-decoration: none;
+}
+p:first-letter{
+	font-size: 150%;
+}
